@@ -1,5 +1,5 @@
 # odin-landing-page
 
-Creating a landing page using tools that the odin project has provided
+Creating a sunglass shop landing page using tools that the odin project has provided
 
-This landing page will feature HTML/CSS and the use of flex box to lay out my landing page
+This landing page will feature HTML/CSS/Bootstrap and the use of flex box and media queries

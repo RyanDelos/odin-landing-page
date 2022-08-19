@@ -78,6 +78,7 @@ body {
   font-size: 2.25rem;
   letter-spacing: 1px;
   font-weight: 700;
+  margin-top: 3rem;
 }
 
 .hero-img-box {
@@ -125,9 +126,42 @@ body {
 
 #testimonial {
   background-color: #a9b0b9;
-  padding: 1.25rem;
+  margin-bottom: 3rem;
+  padding: 2rem;
+}
+
+.testimonial-text {
+  font-size: 1.5rem;
 }
 
 .person {
   text-align: end;
+}
+
+/* CTA */
+#cta {
+  padding: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.cta-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-heading,
+.cta-text {
+  text-align: center;
+}
+
+/* FOOTER */
+#footer {
+  background-color: #a9b0b9;
+  padding: 2rem;
+}
+
+.copyright {
+  text-align: center;
 }
